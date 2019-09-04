@@ -1,3 +1,5 @@
+https://aivivosa.github.io/3Dtuba/
+
 # aframe-vue-boilerplate
 aframe + es6 + vue - aframe stseenide ehitamiseks ja prototüüpimiseks.
 
